@@ -1,0 +1,23 @@
+{
+    "boards": [
+      {
+        "name": "D4-200S",
+        "vendor": "Boards R Us",
+        "core": "Cortex-M4",
+        "has_wifi": false
+      },
+      {
+        "name": "RoboTrain",
+        "vendor": "AI Robotics",
+        "core": "Neural Processor",
+        "has_wifi": true
+      },
+      {
+        "name": "NeuralNetwork",
+        "vendor": "Miniature Electronics",
+        "core": "Cortex-M0",
+        "has_wifi": false,
+        "extra_property": false
+      }
+    ]
+  }

@@ -1,0 +1,67 @@
+{
+    "boards": [
+      {
+        "name": "B7-400X",
+        "vendor": "Boards R Us",
+        "core": "Cortex-M7",
+        "has_wifi": true,
+        "extra_property": false
+      },
+      {
+        "name": "Low_Power",
+        "vendor": "Tech Corp.",
+        "core": "Cortex-M0+",
+        "has_wifi": false
+      },
+      {
+        "name": "Smart_Board_2000",
+        "vendor": "Tech Innovations",
+        "core": "ARM A53",
+        "has_wifi": true
+      },
+      {
+        "name": "Ultra_Power",
+        "vendor": "Tech Corp.",
+        "core": "Cortex-M4",
+        "has_wifi": true
+      },
+      {
+        "name": "EcoBoard",
+        "vendor": "EcoTech",
+        "core": "ARM M0",
+        "has_wifi": false
+      },
+      {
+        "name": "Speedster",
+        "vendor": "Fast Chips Inc.",
+        "core": "RISC-V",
+        "has_wifi": true
+      },
+      {
+        "name": "RoboBrain",
+        "vendor": "AI Robotics",
+        "core": "Neural Processor",
+        "has_wifi": true
+      },
+      {
+        "name": "TinyBoard",
+        "vendor": "Miniature Electronics",
+        "core": "Cortex-M0",
+        "has_wifi": false,
+        "extra_property": false
+      },
+      {
+        "name": "PowerX",
+        "vendor": "PowerTech",
+        "core": "Cortex-A9",
+        "has_wifi": true
+      },
+      {
+        "name": "GreenChip",
+        "vendor": "EcoSolutions",
+        "core": "ARM M3",
+        "has_wifi": false
+      }
+    ]
+  }
+  
